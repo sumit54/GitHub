@@ -8,3 +8,4 @@ for i in range(i,len(strArray)):
 
 if strArray[0]=="TOM":
     print("Tom Found!!");
+
